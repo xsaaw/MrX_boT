@@ -1,4 +1,4 @@
-# MRBANKER BOT
+# MaSterX BOT
 
 A telegram bot to check credit cards. written in py.
 make sure to update proxies!!
